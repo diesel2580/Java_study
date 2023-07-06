@@ -1,12 +1,18 @@
 #Java
+
 #####intelliJ IDEA 단축키 모음
+
 _편집기_
+
 a. ctrl + alt + enter : 윗 줄로 엔터
 b. ctrl + alt + L : 코드 정렬
-c. ctrl + y: 전체 라인 삭
+c. ctrl + y: 전체 라인 삭제
 d. ctrl + /: 주석 처리
+
 _컴파일_
+
 a. shift + F10 : 프로젝트 실행
+
 <br>
 <br>
 
