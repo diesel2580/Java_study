@@ -1,6 +1,6 @@
-#Java
+<h1>Java</h1>
 
-#####intelliJ IDEA 단축키 모음
+<h5>intelliJ IDEA 단축키 모음</h5>
 
 _편집기_
 
@@ -16,7 +16,7 @@ a. shift + F10 : 프로젝트 실행
 <br>
 <br>
 
-####입출력
+<h4>입출력</h4>
 
 1. Scanner 클래스를 이용한 입력
 
