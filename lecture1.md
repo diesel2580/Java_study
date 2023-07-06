@@ -5,8 +5,11 @@
 _편집기_
 
 a. ctrl + alt + enter : 윗 줄로 엔터
+
 b. ctrl + alt + L : 코드 정렬
+
 c. ctrl + y: 전체 라인 삭제
+
 d. ctrl + /: 주석 처리
 
 _컴파일_
